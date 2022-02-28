@@ -1,0 +1,929 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inquisitio Anglicana: or The disguise discovered. Shevving the proceedings of the commissioners at White hall, for the approbation of ministers, in the examinations of Anthony Sadler Cler: (chaplain to the Right Honourable the Lady Pagett, dowager) vvhose delay, triall, suspence and vvrong, presents it self for remedy, to the Ld Protector, and the High Court of Parliament: and for information to the clergy, and all the people of the nation.</title>
+            <author>Sadler, Anthony, b. 1610.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92949</idno>
+            <idno type="STC">Wing S265</idno>
+            <idno type="STC">Thomason E813_23</idno>
+            <idno type="EEBO-CITATION">99863410</idno>
+            <idno type="PROQUEST">99863410</idno>
+            <idno type="VID">115612</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115612)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E813[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Inquisitio Anglicana: or The disguise discovered. Shevving the proceedings of the commissioners at White hall, for the approbation of ministers, in the examinations of Anthony Sadler Cler: (chaplain to the Right Honourable the Lady Pagett, dowager) vvhose delay, triall, suspence and vvrong, presents it self for remedy, to the Ld Protector, and the High Court of Parliament: and for information to the clergy, and all the people of the nation.</title>
+                  <author>Sadler, Anthony, b. 1610.</author>
+               </titleStmt>
+               <extent>[6], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grismond, for Richard Royston at the Angel in Ivie-lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 23.</note>
+                  <note>A variant has: a comma after "or", a period after "Ld" and a period after "Parliament" in lines 2, 12 and 13, respectively, of the title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Commissioners for Approbation of Public Preachers --  Early works to 1800.</term>
+               <term>Church of England --  Clergy --  Rating of --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:115612:1" rendition="simple:additions"/>
+               <hi>INQ<g ref="char:V">Ʋ</g>ISITIO ANGLICANA:</hi> OR The Diſguiſe diſcovered.</p>
+            <p>
+               <hi>SHEVVING</hi> The Proceedings of the Commiſsioners at <hi>White-hall,</hi> for the Approbation of Miniſters, <hi>IN</hi> The Examinations of ANTHONY SADLER <hi>Cler:</hi> (Chaplain to the Right Honourable the Lady <hi>PAGETT,</hi> Dowager) VVhoſe Delay, Triall, Suſpence and VVrong, preſents it ſelf for Remedy, to the L<hi rend="sup">d</hi> PROTECTOR, and the High Court of PARLIAMENT: <hi>AND</hi> For Information to the Clergy, and all the People of the Nation.</p>
+            <p>
+               <hi>Heu Pietas! heu priſca fides!</hi>
+            </p>
+            <q>
+               <bibl>PSAL. 102. 18.</bibl>
+               <hi>This ſhall be written for thoſe that come after,</hi> &amp;c.</q>
+            <p>
+               <hi>LONDON,</hi> Printed By <hi>J. Griſmond,</hi> for <hi>Richard Royſton</hi> at the Angel in Ivie-lane, 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:115612:2"/>
+            <pb facs="tcp:115612:2"/>
+            <head>To his Highneſs The LORD <hi>PROTECTOR: The Petitionary Epiſtle of</hi> A. S. Cler'.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YOur much Injured Petitioner, preſents theſe his impolliſht Examinations to the judicious conſideration of your Highneſs.</p>
+            <p>For the Truth of Them, I ſhall be Depoſed, or Expoſed to a farther Triall; ſo it be, in Pub<g ref="char:EOLhyphen"/>lick, upon Queſtions given, and a time to De<g ref="char:EOLhyphen"/>liberate.</p>
+            <p>It is the Comfortable Hope (as well as the Humble Requeſt) of your Petitioner, that he ſhall be Protected, from the Malignancy of Prejudice<hi>:</hi> even the Prejudice of Mr. <hi>Nye</hi> the Commiſsioner, againſt whoſe over-buſie-partiall-and-injurious Proceedings, your Peti<g ref="char:EOLhyphen"/>tioner doth humbly crave, the benefit, of that Iuſtice; the Law, Reaſon, and Religion, may, or ſhall give—unto—</p>
+            <closer>
+               <signed>Your Highneſs moſt humble Petitioner, <hi>Anthonie Sadler.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:115612:3"/>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:115612:3"/>
+            <head>
+               <hi>To the high Court of</hi> PARLIAMENT, <hi>The Petitionary Epiſtle of</hi> A. S. Cler'.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>AS our Grievances are to be made Known unto you, ſo are they to be Redreſſed by you.</p>
+            <p>I am therefore humbly-bold to implore your Le<g ref="char:EOLhyphen"/>gall Favour, that, theſe my Examinations, with the Proceedings of the Commiſsioners, for Appra<g ref="char:EOLhyphen"/>bation of Miniſters, may be ſo taken into Conſi<g ref="char:EOLhyphen"/>deration; that, (Religion, being maintained, and Juſtice done; and a Reformation, made)</p>
+            <p>Glory, may be to God;</p>
+            <p>Goodwill, to Men;</p>
+            <p>And in Earth, Peace.</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioner ſhall pray, &amp;c.</hi> Anthonie Sadler.</signed>
+            </closer>
+            <pb facs="tcp:115612:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb n="1" facs="tcp:115612:4"/>
+            <head>
+               <hi>Inquiſitio Anglicana:</hi> OR, The Diſguiſe Diſcovered.</head>
+            <p>UPon the Reformation of Religion by King <hi>Ferdi<g ref="char:EOLhyphen"/>nand,</hi> the Spaniſh Inquiſition was firſt Invented, by the Dominican Fryers; for the Enquiring after, and the Finding out, and the Reclaiming of thoſe, <hi>Moors</hi> and <hi>Jewes,</hi> which lived in <hi>Spain,</hi> in a Formall, but not Reall Submiſſion unto the Church of <hi>Rome.</hi>
+            </p>
+            <p>The Houſe for thoſe Inquiſitors, is very Strong; their Practiſe, very Strict; their Proceedings, very Grievous: the Smalleſt Error in Religion, being puniſht, with Death, Exile, Impriſonment, or Confiſcation.</p>
+            <p>Their Flies or Informers, are very numerous; and let the Perſon Informed Againſt, be never ſo Innocent, he is ſure to Suffer, if his Eſtate be Great.</p>
+            <p>Whoſoever Speaks in his Deſence, or Shews him any Fa<g ref="char:EOLhyphen"/>vour, is to weare the <hi>Sambenito,</hi> to be publickly Whipt, and then Baniſht for ten years.</p>
+            <p>If they Suſpect or Maligne any one, he is forthwith Ap<g ref="char:EOLhyphen"/>prehended, and put to the Rack, and if by Torments he can<g ref="char:EOLhyphen"/>not be drawn to Accuſe himſelf, of Treaſon or Hereſie, (which they lay to his Charge) then they Flatter him, and
+<pb n="2" facs="tcp:115612:5"/>
+let him goe: telling him withall, that (for their parts) they ever had a good opinion of him, and that he was much Bounden to their Lordſhips, who were thus ready to doe him Juſtice: then they give him a ſpeciall Charge, of Silence; which, if he keep not, they <hi>ipſo facto</hi> commence a Suit againſt him, and then, without ever being Heard, he is either Starv'd, or Murther'd in the P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſon.</p>
+            <p>When any one is in Queſtion, he muſt make means to come unto his Triall, which, if (after long-waiting, much-importu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity, and great-expence) he have, he is then brought into the Conſiſtory, and let him Anſwer, What, and How he will, (if it be not to their mindes) they tell him, that they are not ſa<g ref="char:EOLhyphen"/>tisfied, though they give no Reaſon, Why.</p>
+            <p>The manner of their Examination, is, firſt by oath; which, if he Refuſe, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n an Indictment's drawn, and they charge him with Improbable, Incredible, and ſuch things, as he never knew nor heard of.</p>
+            <p>The ſeverall Articles, he muſt Anſwer to <hi>ex tempore,</hi> with<g ref="char:EOLhyphen"/>out any time of deliberation: then they give him Pen, Ink, and Paper, to ſet down his Anſwers in Writing; and if his Firſt and Laſt Anſwers doe any way differ, he is then cer<g ref="char:EOLhyphen"/>tainly undone.</p>
+            <p>I cannot make a full Parallel (God forbid I ſhould) be<g ref="char:EOLhyphen"/>tween thoſe cruell-Romiſh, and our—Engliſh Inquiſitors: and yet—</p>
+            <p n="1">1. THey have, both alike, a Grand Commiſſion, to Au<g ref="char:EOLhyphen"/>thorize their Doings.</p>
+            <p n="2">2. Their Proceedings are alike, Severe, to thoſe they Diſaffect; being very Partiall, Cloſe, Delatory, and Preju<g ref="char:EOLhyphen"/>diciall.</p>
+            <p n="3">3. Their Queſtions (be they Idle, Solid, or Captious) muſt be Anſwered to, alike, <hi>ex tempore,</hi> and upon the ſudden.</p>
+            <p n="4">4. They have, alike, by their Informers, Intelligence from all parts.</p>
+            <p n="5">
+               <pb n="3" facs="tcp:115612:5"/>
+5, They are alike, Examiners, Witneſſes, and Judges in their own caſe.</p>
+            <p n="6">6. And laſtly, I cannot name the many waies they have, in the Spaniſh Inquiſition, to Queſtion, and to ruine the Per<g ref="char:EOLhyphen"/>ſon, whom they doe Maligne. Neither can I trace out the many Turnings that Mr. <hi>Nye</hi> hath to Delay, or Delude, or Deny any Miniſter (though never ſo Worthy) Preſented to a Living (though never ſo juſtly) of the (chargeable and new-found) Inſtrument, of their Approbation.</p>
+            <p>If they Diſlike the Miniſter (and probably like the Living)—Then—(I doe not ſay, that they cannot Approve him, oh no, by no means, they cannot; becauſe (forſooth) he is Diſ<g ref="char:EOLhyphen"/>affected, <hi>i. e.</hi> not of their Opinion, Or elſe, ſecondly,</p>
+            <p>That his Anſwers are not to their minde, and therefore he is Inſufficient. Or elſe thirdly,</p>
+            <p>That there is a Caution againſt him, though he know not, by Whom, nor for What. Or elſe fourthly,</p>
+            <p>That he carries his Hand by his ſide, and his Elbow up; and therefore he is Proud. Or elſe fiftly,</p>
+            <p>That his Certificate is not Satisfactory, <hi>i. e.</hi> they doe not know the Subſcribers, or not believe them to be Godly. Or elſe ſixtly,</p>
+            <p>That he ſhall not have that Living (though ſome other he may) let him doe what he will. Or elſe ſeventhly,</p>
+            <p>That his Voice and Tone likes them not; and therefore he hath not the Gift of Utterance. Or elſe eighthly,</p>
+            <p>That he ſpeaks too quaintly, and therefore is he a meer Hu<g ref="char:EOLhyphen"/>maniſt, and one that hath not the Spirit. Or elſe ninthly,</p>
+            <p>That if he will reſigne his Living quietly, he ſhall have a round ſumme of money ſo to doe.</p>
+            <p>I doe not ſay of any of theſe things; no, I doubt not, but Mr. <hi>Sammois,</hi> and Mr. <hi>Hart,</hi> and the reſt, will appear in their own caſes: but this, I can, and doe, and will ſay, that—)—</p>
+            <p>—Then, they firſt Queſtion the Form of his Certificate, and reject That: if This will not doe, Then ſecondly,</p>
+            <p>They Scruple the Perſons, ſubſcribing, and reject Thoſe. If This will not doe, then thirdly,</p>
+            <p>
+               <pb n="4" facs="tcp:115612:6"/>
+He is (after three weeks it may be, if not much longer at<g ref="char:EOLhyphen"/>tendance) called for, and Examined: and that a firſt, and a ſecond time; by five, and then by nine Commiſſioners: They uſe all the waies they can, to Baffle him, two or three ſpeak<g ref="char:EOLhyphen"/>ing at once to confound his memory, or Invalid his Anſwers. And if this will not doe, Then—after a Long, and Strict Examination; they bid him. <hi>Withdraw,</hi> and call for him no more—And This, is my particular Caſe, which is here fully Recollected, and now Preſented to the Publick View; by way, both of Appeal, and Apologie: an Apologie, for my Self; and an Appeal, to
+<hi>The Lord PROTECTOR</hi> and <hi>The High Court of PARLIAMENT,</hi>
+            </p>
+         </div>
+         <div type="account">
+            <p>I <hi>(Anthony Sadler,</hi> a Miniſter of the Goſpel, In<g ref="char:EOLhyphen"/>wardly Called thereunto, by the the Spirit of God; and Outwardly by the Ordination of Doctor <hi>Corbet,</hi> Biſhop of <hi>Oxon,</hi> in the year 1631,) was (upon the Death of the Incumbent Preſented (by the Lawfull Patron to <hi>Compton Hayway,</hi> a Living in <hi>Dorſetſhire, May</hi> the 25. 1654.</p>
+            <p>According to the Ordinance (for my Inſtitution and Induction I ſubmitted my ſelf to the Examina<g ref="char:EOLhyphen"/>tion of the Comm<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſioners, in that caſe provided.</p>
+            <p>I put in my Cert<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ficate upon the 10 of <hi>June;</hi> which (waiting conſtantly upon them) was (upon the 14 day) Rejected, and Redelivered me by Mr. <hi>Nye</hi> the Commiſſioner, ſaying, <hi>It was no Certificate.—</hi>
+            </p>
+            <pb n="5" facs="tcp:115612:6"/>
+            <floatingText xml:lang="eng" type="text">
+               <body>
+                  <head>The form of which was this:</head>
+                  <p>
+                     <hi>VVHereas the Bearer hereof</hi> An<g ref="char:EOLhyphen"/>thonie Sadler, <hi>a Miniſter of Gods moſt holy Word, and my Domeſtick Chaplain, having demeaned himſelf very Commendably in the Performance of his Place, and Duty; Preaching upon all oc<g ref="char:EOLhyphen"/>caſions, both ſoundly and comfortably, as well to Others, as to my Self, and Family: I thought good (he being now called to a more publick Execution of his Function, for the Glory of God, and the Inſtruction of his People) to Atteſt unto all thoſe, to whom theſe Preſents ſhall come, That the ſaid</hi> Anthonie Sadler, <hi>is a well-deſer<g ref="char:EOLhyphen"/>ving Perſon, and of right godly Life, and Converſation.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="6" facs="tcp:115612:7"/>
+Mr. <hi>Nye</hi> asked me, <hi>If I had not ſeen the Ordinance?</hi> I told him, <hi>No.</hi> So his Son ſhewed it to me; and then, and there, and thence, I Tranſcribed their own Form; which, upon the 19 of <hi>June,</hi> I exhibited, with the Hands, of—</p>
+            <p>
+               <hi>LETICIA</hi> Lady <hi>PAGETT. WILLIAM</hi> Lord <hi>PAGETT. GEORGE MANLEY,</hi> late Juſtice of Peace. <hi>JOHN VINER,</hi> Miniſter of <hi>Weſtminſter. EDWARD MARTYN,</hi> now in Commiſſion. <hi>ANTHONIE TINGLE</hi> Clerk of the Ab<g ref="char:EOLhyphen"/>bey at <hi>Weſtminſter.</hi>
+            </p>
+            <p>I waited day after day for Nine daies, after this: uſing all the lawfull means, I could, that I might but come unto my Triall.</p>
+            <p>My Delay was very Troubleſome (though not, it may be, Chargeable, as that of Mr. <hi>Taylors</hi> was, who came from <hi>Yorke</hi> to <hi>London,</hi> and being Called, Examined, and Approved, at three weeks end; was yet ſtayed ſeven weeks after; and at the laſt, (having ſpent above 20 li.) was enforced to return without their Inſtrument; becauſe (as M. <hi>Nye</hi> told Him; and He, Me;) <hi>His Certificate was not Subſcribed by Hands they knew.)</hi> I ſay, my Delay was very Troubleſome, cauſing me to Trifle away my Time, to Neglect the Duty of my Place &amp; Calling: at laſt, (being Wearied with this ſtrange Attendance) I ſent in a Note to Mr. <hi>Nye,</hi> &amp; Mr. <hi>Peters,</hi> humbly entreating them, That <hi>I might have the Favour to be Examined, for I had waited almoſt three weeks.</hi>
+            </p>
+            <p>About twelve a Clock, I went away, (having a Family<g ref="char:EOLhyphen"/>duty to perform to an Honourable Lady.) I was no ſooner gone (ſo Curious are They to obſerve their time) but I was Called for, and not being there Then, word was brought me forthwith, That <hi>the Hands to my Certificate were not ap<g ref="char:EOLhyphen"/>proved of:</hi> That Afternoon their Clerk told me as much, and ſo gave me again my Certificate, and my Preſentation both. (I ſay my Preſentation, for, This they kept all the while, that they might be informed of the Value of it)</p>
+            <p>
+               <pb n="7" facs="tcp:115612:7"/>
+After this, (that I might not leave any way unaſſayed to come but to a Hearing) I made my Addreſſe to the <hi>Maſter of the Rolls,</hi> (now <hi>Mr. Speaker)</hi> who Subſcribed thus,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>THis Gentleman, Mr.</hi> Sadler, <hi>hath Preacht before me, with very good Approbation of me; and I did before that time hear, and I was ſo informed, that he was a godly Miniſter.</hi>
+                  </p>
+                  <closer>
+                     <signed>VVILLIAM LENTHALL.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And to Doctor <hi>Temple,</hi> who Subſcribed thus,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>I <hi>Have received a good Teſtimony of Mr.</hi> Sadler, <hi>and doe believe him to be a man of Abilities to Preach the Goſpel, and of a godly Converſation.</hi>
+                  </p>
+                  <closer>
+                     <signed>THO. TEMPLE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Mr. <hi>Stevens,</hi> and Mr. <hi>Arnold,</hi> (high Burgeſſes of <hi>Weſt<g ref="char:EOLhyphen"/>minſter)</hi> and Mr. <hi>Morrice,</hi> a perſon well known to Mr. (one of the Co<g ref="char:cmbAbbrStroke">̄</g>miſſioners) theſe gave me their ſeveral Hands, to the former (thoſe beforenamed and Rejected) which (being all together to one and the ſame Certificate) upon the firſt day of <hi>July,</hi> I delivered to their Clerk, and upon the third day I was called in before their Worſhips, and Mr. <hi>Nye</hi> having the Chair, began thus:</p>
+            <div n="1" type="examination">
+               <pb n="8" facs="tcp:115612:8"/>
+               <head>The firſt Examination before five Commiſſioners, <hi>July</hi> the 3. 1654.</head>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Queſtion.</p>
+                  <p>
+                     <hi>VVHat is Regeneration?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sadler.</speaker>
+                  <p>
+                     <hi>Anſwer.</hi> It is our Incorporation into Chriſt by Faith.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>What, body into body?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> No, Chriſts body is Myſticall.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What's Regeneration?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What's Generation?</hi> ſaid another<g ref="char:punc">▪</g> both of them ſpea<g ref="char:EOLhyphen"/>ing at one time.</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Regeneration is our New birth in Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>
+                     <hi>Explain your meaning, that's but the word in the plain ſenſe of it.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Regeneration is diſtinguiſht from Sanctification, ſaith <hi>Wilſon.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>What,</hi> Wilſon<hi>'s Dictionary?</hi> ſpeaking ironically.</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> If you take Regeneration and Sanctification both as one, then—Regeneration is a work of Gods Spi<g ref="char:EOLhyphen"/>rit, to bring the Will of Man unto the Will of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>
+                     <hi>That's ſomething indeed.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>The Definition, is a learned Authors.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>
+                     <hi>You may alledge Popiſh Books.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>What, is the Will onely Regenerated, not the <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> The whole man, both Outward and Inward.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>Is Regeneration a Subſtance, or an Accident?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> I doe not well underſtand your meaning.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>
+                     <hi>Its plain, Anſwer—</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Here I made a pauſe, as being much troubled in minde, at ſo captious, if not ridiculous, a Queſtion; and being ſilent—Mr. <hi>Nye</hi> ſaid again—</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>In what Predicament?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad</speaker>
+                  <p>
+                     <hi>A.</hi> In the Predicament of Quality.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>But are you Regenerated?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="tcp:115612:8"/>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>Make that out.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> I conceive you mean the work of grace in me.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q <hi>Well, and when was that?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> About thirty years agoe. <hi>[How old were you then?</hi> ſaid Mr. <hi>Nye.]</hi> I was in my <note n="*" place="margin">Though ſe<g ref="char:EOLhyphen"/>cret Devotion be alwaies Pri<g ref="char:EOLhyphen"/>vate; yet Pri<g ref="char:EOLhyphen"/>vate Dev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tion is not alwaies Secret.</note> ſecret devotion. <hi>[He means Private,</hi> ſaid Mr. <hi>Nye,</hi> both interrupting, and deriding me] I was Kneeling and Praying, that <hi>God would give a certain Evidence of his Spirit; and ſhew ſome good token upon me for good:</hi> whereupon, I heard, as it were, a Voice, ſaying, <hi>I have a bleſſing for thee, I will not fail thee, nor forſake thee.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>What, was it a Voice, was it Audible?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> No, not in a Vocall way, it was a Motion.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>Was it not a Deluſion, as</hi> Eve<hi>'s voice to</hi> Adam?</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> No, I know it was no Deluſion, but a good Moti<g ref="char:EOLhyphen"/>on: I know it was, becauſe a good Motion is alwaies in expreſſe words of Scripture, or Conſonant to it: a Deluſion may have ſome part of Truth, but not All: as the Devils was, when he Tempted our Sa<g ref="char:EOLhyphen"/>viour, with a Piece of Scripture.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>And you are ſure, that you have the Grace of God in you?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Yes, I am as ſure I have a <hi>life of Grace</hi> in me, as I have a <hi>life of Nature.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>
+                     <hi>Make that out.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> As I have Breath, Heat, Senſe, and Action in my Body, ſo have I in my Soul.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q <hi>What is the Breath of the Soul?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> My Longing, and Thirſting after God.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What is the Heat?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A</hi> A Zeal for Gods Glory, and my Affection to him. [Then ſpake two more of them, but what, I minded not, being intent upon the Allegory.]</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What is the Senſe of the Soul?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> An Apprehenſion of my Indiſpoſedneſs, and a Senſe of Sin.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What is the Action of the Soul?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="10" facs="tcp:115612:9"/>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> The good works I doe, as works of Piety and Cha<g ref="char:EOLhyphen"/>rity.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>
+                     <hi>This is all one, a thing ſtudied—</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>What is Faith?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> It is a Knowing, a Believing, and a Depending upon Chriſt, ſaith one; or, as ſaith another, It is the Be<g ref="char:EOLhyphen"/>lieving not onely of Gods Word to be True; but a firm Perſwaſion, that the Truth and Promiſes of that Word, belongs to Me.</p>
+               </sp>
+               <p>—Here (they not hearing, or not regarding what I ſaid, nor ſuffering me to ſpeak a word more) I was frowned upon, and commanded to</p>
+               <p>
+                  <hi>Withdraw.</hi>
+               </p>
+               <p>So I went out, and heard no more of it.</p>
+               <p>In the Afternoon I came again to know their Worſhips pleaſure: and meeting with Mr. <hi>Nye,</hi> I deſired to know the iſſue of my Examination<hi>:</hi> He told me, <hi>The Commiſſioners did not approve.</hi> I then askt him, what he would have me doe? He told me, <hi>nothing could be done till there were nine Commiſ<g ref="char:EOLhyphen"/>ſioners together.</hi> So, between five and ſix a clock (there be<g ref="char:EOLhyphen"/>ing a full Table) I was called in again, and then (though Mr. <hi>Tombs</hi> had the Chair, yet) Mr. <hi>Nye</hi> thus ſaid to me,</p>
+               <p>
+                  <hi>You were not ſatisfied with what the Commiſſioners did in the Morning; but you deſire a further Triall of your Parts.</hi>
+               </p>
+               <p>Then ſaid Mr. <hi>Tombs—</hi>
+               </p>
+            </div>
+            <div n="2" type="examination">
+               <pb n="11" facs="tcp:115612:9"/>
+               <head>The ſecond Examination before nine Commiſſioners, <hi>July</hi> the 3. 1654.</head>
+               <sp>
+                  <speaker>Mr. <hi>Tombs.</hi>
+                  </speaker>
+                  <p>Queſt</p>
+               </sp>
+               <p>
+                  <hi>VVHat is Originall Sin?</hi>
+               </p>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> It is the Corruption of our Nature, through <hi>Adam</hi>'s fall.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Is Actuall or Originall ſin greater?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Actuall.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Is Pride or Murder, a Greater ſin, than Originall?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Is the Branch,</hi> ſaid another, <hi>greater than the Root?—That is well put,</hi> ſaid a Third.</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Yes, Originall ſin is leſſe than Actuall; for, Actuall ſin is the Aggravation of Originall: there be de<g ref="char:EOLhyphen"/>grees of ſin.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Did</hi> Adam <hi>ſin Willingly or <g ref="char:V">Ʋ</g>nwillingly?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Willingly, for, his Will was Free.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Was God Willing, or <g ref="char:V">Ʋ</g>nwilling of it?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> It is a dark Queſtion, I conceive, with ſubmiſſion to your judgment; that, there was a Willing-Unwil<g ref="char:EOLhyphen"/>lingneſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>Where doe you finde that in Scripture?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A</hi> The Queſtion is as dark as the Anſwer.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What think you of Indeliberate Motions?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> I doe not well underſtand you.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Motions to Sin, before Conſent are they Sinfull?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Not Sinfull, if not Conſented to.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>How ſo?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Becauſe they be the Devils Suggeſtions, and are laid to his Charge.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Why, what are the Motions in our ſleep, when we dream of killing, or doing any other wickedneſs?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Theſe Nocturnals are not ſinfull neither, if when we doe awake we doe not Remember them, or Relate them with Delight, or any Yeilding to them.</p>
+               </sp>
+               <sp>
+                  <pb n="12" facs="tcp:115612:10"/>
+                  <speaker>Com.</speaker>
+                  <p>
+                     <hi>You told us in the Morning, that you were ſure of the Grace of God in You.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> I did.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>How have you that Aſſurance?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> By Faith.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Is Faith Mediate or Immediate?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> It is Immediate as Gods Gift; but ordinarily, it is Mediate, by the Word and otherwiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>Doe you Believe CHRIST, before you knew him; or Know CHRIST, before you doe Believe him?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>How doe you Exiricate your ſelf?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> I Know whom I have Believed.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What Evidence have you, that you Believe in Chriſt?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Becauſe I have a Zeal to his Glory, a Sorrow for Sin, a Reluctancy againſt Sin, and I Apply the Me<g ref="char:EOLhyphen"/>rits of my Saviour to my Self, ſaying, as <hi>Thomas</hi> did, <hi>My Lord, and my God.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Is He your God, and your Lord onely? Chriſt died for All, and ſhall not All have the Benefit of his Death?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> No, I know Chriſts Death is Sufficient for as many Worlds of men, as there be Men in the World: but ſurely, its not Effectuall to All: its to all Sorts of People, but not to All people.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Why not to All, as well as to You?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Becauſe <hi>God will have Mercy, on Whom he will have Mercy.—Yea,</hi> ſaid Mr. <hi>Tombs, and Whom he Will, he Hardeneth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Doth God Harden any Ones Heart?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>How can God Harden the Heart, and not be the Au<g ref="char:EOLhyphen"/>thour of Sin?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> God is ſaid to Harden the Heart, when he With<g ref="char:EOLhyphen"/>draws his Grace.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>If God Withdraw his Grace, when he might Hinder Sin, Is He not the Authour of Sin?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> God hath a threefold Precept: a Precept of Triall, a Precept of Obedience, and a Precept of Convicti<g ref="char:EOLhyphen"/>on.</p>
+               </sp>
+               <sp>
+                  <pb n="13" facs="tcp:115612:10"/>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Give Examples of each of them: What is the Precept of Triall?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> That, by which, God Tempted <hi>Abraham.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What is the Precept of Obedience?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> That, which God gives to his Elect: when he gives them a Command, and Grace therewith, to Perform the Command.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What is the Precept of Conviction?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> That, under which the Wicked lie; which, though they cannot Perform, yet God is not the Authour of Sin.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What is the Chief Point, in all the Scripture?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A. CHRIST,</hi> and Him Crucified.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>Are you Juſtified by Faith?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Faith is my Righteouſneſs, and Faith is my Juſtifica<g ref="char:EOLhyphen"/>tion.</p>
+                  <p>There is a Juſtification before God, and a Juſtifi<g ref="char:EOLhyphen"/>cation before Men.</p>
+                  <p>There is <hi>actus <g ref="char:V">Ʋ</g>nus,</hi> and <hi>actus Succeſſivus.</hi>
+                  </p>
+                  <p>I am Juſtified by Faith, as Faith is the Inſtrument, or Hand, whereby I ſay hold upon and Apply the Me<g ref="char:EOLhyphen"/>rits of my Saviour, to my poor Soul: and Faith is my Righteouſneſs, as its Correlative, in reference to Chriſts Merits.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>But, all this while, here is no mention made, of Love to the Brethren.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> I could not love God, if I did not love the Brethren, <hi>All my delight,</hi> ſaith <hi>David, is upon the Saints.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>How long have you been at</hi> Weſtminſter?</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Theſe ſeven years.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>Doe you know no Miniſter but Mr.</hi> Viner?</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Yes, I knew your Self, and Many others.</p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>Doe not you know Mr.</hi> Roode?</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Yes, but I have no Acquaintance with him.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>How came you to know Doctor</hi> Temple?</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> I have ſeen him many times, at my Ladies, and I have been with him at <hi>Batterſy.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nye.</speaker>
+                  <p>Q. <hi>Had you never any Living, or Cure?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="14" facs="tcp:115612:11"/>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> I never had any Living abſolutely; I had a Cure at <hi>Biſhop-Stoke;</hi> which after the Living was Seque<g ref="char:EOLhyphen"/>ſtred, I had 20l. a year allowed me by the Com<g ref="char:EOLhyphen"/>mittee of <hi>Southampton,</hi> as Mr. <hi>Major</hi> can affirm. My greateſt time I lived was, with Eſquire <hi>Sadler</hi> in <hi>Hertfordſhire,</hi> I was his Chaplain eleven years.—Sir, were it not, that I have a Zeal to advance Gods Glory, I would not take this Preferment; I thank God, I can live, as I am.</p>
+               </sp>
+               <sp>
+                  <speaker>Com.</speaker>
+                  <p>Q. <hi>What doe you ſay of the Church of</hi> Rome, <hi>Is it a True Church or no? Biſhop</hi> Hall <hi>ſaies, it is a True Church, and the Prieſts and Jeſuits, and He that was Executed the other day, ſaid, It was a True Church: What ſay you?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>
+                     <hi>A.</hi> Its no True Church. I think the Church of <hi>Rome,</hi> is as a Virgin Defloured; She was Pure, but ſhe is Defiled.</p>
+                  <p>—Then, they bid me</p>
+                  <stage>Withdraw.</stage>
+               </sp>
+            </div>
+            <div type="continuation_of_account">
+               <p>I waited to be Called in again (according to their Cuſtome) to hear the Reſult: but I was called for no more; inſomuch that when they Roſe, I followed Mr. <hi>Nye,</hi> and askt him of the iſſue of my Examinations; He told me, <hi>The Commiſſioners did not Approve;</hi> I askt the Reaſon why; but, he ſeemed to ſlight me, and went away without ſpeaking any farther to me.</p>
+               <p>I went forthwith to Mr. <hi>Peters,</hi> and told him, <hi>I was ſorry, that I was not thought worthy of their Approbation:</hi> He an<g ref="char:EOLhyphen"/>ſwered, <hi>That the Commiſſioners had not yet Concluded any thing, and that it was upon Suſpence.</hi>
+               </p>
+               <p>About a Fortnight after, I met with Mr. <hi>Lockier,</hi> and deſi<g ref="char:EOLhyphen"/>red him, That <hi>a Vote might paſſe, with me, or againſt me:</hi> He ſaid, <hi>There was a Vote,</hi> and bid me <hi>ask the Clerk:</hi> whom, up<g ref="char:EOLhyphen"/>on the 7 of <hi>Auguſt</hi> I did, and having the Book reviewed, there was onely this Recorded, <hi>That ſuch an One was Exami<g ref="char:EOLhyphen"/>ned, and no more—</hi>
+               </p>
+               <p>The 14 of <hi>Auguſt</hi> I wrote a Letter to Mr. <hi>Nye,—</hi>the Copie whereof is This—</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="15" facs="tcp:115612:11"/>
+                     <opener>
+                        <salute>Worthy Sir,</salute>
+                     </opener>
+                     <p>BEcauſe I have been twice Examined, firſt by Five, and then by Nine Commiſſioners; and nothing as yet Determined (as upon Record) either for me, or againſt me; and becauſe my Life and Doctrine is generally known; and I am Commanded by ſome Perſons of Quality, to Satisfie the World, and to Juſtifie my Self, ſo farre, as to a Prudentiall Vindication: And laſtly, becauſe my Sufficiency for my Calling, is, by You, Obliquely, in the Negative: I have followed the advice of my good Friend Mr. <hi>O. Sedgwicke,</hi> in making this Addreſſe unto your Reve<g ref="char:EOLhyphen"/>rend Self.</p>
+                     <p>Sir, I beſeech you, to hold the Scale with Piety, and Prudence; and let it not be turned by Policie, or Prejudice.</p>
+                     <p>
+                        <hi>Fac Aliis fieri quod cup is ipſe Tibi,</hi> is, a Goſpel Precept; and even <hi>Mahomet</hi> alſo, in his <hi>Alcoran,</hi> makes it Obligatory.</p>
+                     <p>Remember (I pray you) the Mottoes upon the Spoaks in <hi>Seſoſtris</hi> Wheel: Imagine my Caſe, Yours; and let God, and a good Conſcience guide you, as you will Anſwer it, at the Dreadfull Day, of the Lords Coming.</p>
+                     <p>You know Maſter <hi>Nye,</hi> that every one hath not the Boldneſſe, it may be, the Ingenuity, it may be, the Memory (no, the Ableſt Scholler is ſometimes In<g ref="char:EOLhyphen"/>diſpoſed, and Dull; and Haeſitates at That; which, at another time, he is Facetious In) to Anſwer Quod<g ref="char:EOLhyphen"/>libets <hi>ex tempore,</hi> and to make out upon the ſudden, the Gifts and the Graces, which are in him.</p>
+                     <p>It is well known, I have, in this City, Preacht (and the Text given me) upon a Daies Warning.</p>
+                     <p>
+                        <pb n="16" facs="tcp:115612:12"/>
+I have, and ſhall again (as occaſion ſerves) Preach, both Practicall, and School-Divinity; This, for Ma<g ref="char:EOLhyphen"/>nifeſtation in regard of my Sufficiency; and That, for Edification, in regard of the People.</p>
+                     <p>I know, a Teacher of Gods Word, hath a fourfold Duty; and the Word of God, a fourfold Uſe; Three Practique, and One Contemplative.</p>
+                     <p>I know, <hi>bonae ſunt in Scriptur is ſanctis Myſteriorum profunditates; quae ob hoc Teguntur, ne Vileſcant; ob hoc quaeuntur, ut Exerceant; ob hoc autem Aperiun<g ref="char:EOLhyphen"/>tur, ut Paſcant.</hi>
+                     </p>
+                     <p>
+                        <hi>Credimus, ut Cognoſcamus; non Cognoſcimus, ut Cre<g ref="char:EOLhyphen"/>damus.</hi>
+                     </p>
+                     <p>
+                        <hi>Optimus eſt Lector, qui dictorum Intelligentiam expe<g ref="char:EOLhyphen"/>ctet ex Dictis, potiùs quàm Imponat; &amp; Retulerit ma<g ref="char:EOLhyphen"/>gis, quàm Attulerit.</hi>
+                     </p>
+                     <p>Sir, give me any Controverſed-Theologicall point, but That, of <hi>Free-will,</hi> (which was never yet Decided by Oecumenicall or Generall Councell) I ſhall be, your humble <hi>Reſpondent</hi> in any Publique Audience.</p>
+                     <p>I muſt Entreat you, to Pardon my Boldneſs: I con<g ref="char:EOLhyphen"/>feſſe, the Prophet <hi>Excuſabat ſe per Verecundiam;</hi> and the Apoſtle affirms it, by a Queſtion of Abnegation, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>? and yet, the ſame Apoſtle was enforced to a kinde of Vain-glory; if I am ſo, You have Compelled me; and I crave your Excuſe.</p>
+                     <p>My Credit, and my Livelihood, are both Reflected on by the Suſpence of your Vote; and the Contin<g ref="char:EOLhyphen"/>gency of your Approbation.</p>
+                     <p>Mr. <hi>Peters</hi> told me, nothing was Concluded, and the 7 of this inſtant <hi>Aug:</hi> I had the Book Reviſed, and found it ſo.</p>
+                     <p>I humbly crave an Ultimate Anſwer, and a Poſi<g ref="char:EOLhyphen"/>tive
+<pb n="17" facs="tcp:115612:12"/>
+Concluſion, upon my Examinations, (which I have fully Recollected, and can produce) my Patron will Preſent none other, till That be done.</p>
+                     <p>If You pleaſe to Approve me (as God, and the World hath, by my Meet Gifts, and Lawfull Ordi<g ref="char:EOLhyphen"/>nation) I ſhall (God willing) Employ my Talent, to (my utmoſt power) the beſt Advantage: but—if you are reſolved to Diſapprove me, let it be (I pray you) upon Record, and the Reaſon why; that (ſaving your Complement) Aftertimes may know it, as well as You—This is the humble, and but juſt deſire, of</p>
+                     <closer>
+                        <salute>Sir,</salute>
+                        <signed>Your Servant in the Lord, <hi>A. S.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Of this Letter, I had no Return; but—This was (as were my Anſwers, my firſt Certificate, and ſecond Subſcribers) Nauſeated by his—Worſhip: ſo that, (as if his Will were the Law; his Power Unlimited; and both Unqueſtionable) I am ſtrangely kept (in an Arbitrary way) under the Hatches of their (diſpleaſed) Pleaſure<hi>:</hi> yea—and all this (to the loſſe of my Time, Living, and Preferment) without any rea<g ref="char:EOLhyphen"/>ſon rendred me.</p>
+               <p>Being therefore Enforc'd (I ſay Enforc'd) to this True Rela<g ref="char:EOLhyphen"/>tion, and but Juſt Appeal; I hope, the Lord my God, will ſo Bleſſe it; as to be Succeſsfull, to his Glory, and the Publique good.</p>
+            </div>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
